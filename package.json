@@ -1,0 +1,15 @@
+{
+	"author": "Amandeep Singh",
+	"name": "censorify",
+	"version": "0.0.1",
+	"description": "Censor words out of text",
+	"main": "censortext",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/amandeeps/nodebook-censorify.git"
+	}
+}
